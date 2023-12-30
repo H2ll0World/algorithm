@@ -1,5 +1,6 @@
 /*
 	1629 곱셈
+ 	시간복잡도 O(logN)
 */
 
 #include <iostream>
