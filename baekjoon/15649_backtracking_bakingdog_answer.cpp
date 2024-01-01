@@ -1,3 +1,5 @@
+// 재귀적으로 구현된 이 구조가 백트래킹의 전형적인 구조, 잘 익혀둘 필요가 있음
+
 #include <iostream>
 using namespace std;
 
