@@ -25,7 +25,7 @@ int main(){
     for(int i = 1; i < 8; i++){
         d[i + 3] = d[i + 2] + d[i + 1] + d[i];
     }
-    for(int i = 1; i < T; i++){
+    for(int i = 0; i < T; i++){
         cout << d[vec[i]] << '\n';
     }
 
