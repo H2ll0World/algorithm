@@ -18,6 +18,8 @@ int result[100000];
 int prefixSums[100001]; // 1,000 * 100,000 == 1억 이므로 int로 표현가능
 
 int main(){
+    ios::sync_with_stdio(0);
+    cin.tie(0);
     int N, M;
     int i, j;
     int input;
