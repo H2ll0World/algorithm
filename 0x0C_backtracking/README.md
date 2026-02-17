@@ -28,5 +28,5 @@
 | [O] | 기본 문제 | 1759 | [암호 만들기](https://www.acmicpc.net/problem/1759) | [정답 코드](./1759.cpp), [별해 1](./1759_1.cpp) |
 | [ ] | 응용 문제✔ | 1941 | [소문난 칠공주](https://www.acmicpc.net/problem/1941) | [정답 코드](./1941.cpp) |
 | [ ] | 응용 문제✔ | 16987 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | [정답 코드](./16987.cpp) |
-| [ ] | 응용 문제 | 18809 | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) | [정답 코드](./18809.cpp) |
+| [O] | 응용 문제 | 18809 | [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) | [정답 코드](./18809.cpp) |
 | [ ] | 응용 문제 | 1799 | [비숍](https://www.acmicpc.net/problem/1799) | [정답 코드](./1799.cpp) |
